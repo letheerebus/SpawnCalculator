@@ -1,0 +1,62 @@
+
+.age-container {
+    margin: auto;
+    margin-top: 9vh;
+    border-radius: 10px;
+    padding: 30px;
+    width: 500px;
+    height: 250px;
+    box-sizing: content-box;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    background-color: #121212 ;
+}
+
+.age-header {
+    font-size: 2rem;
+    font-weight: bold;
+    margin: 10px;
+    color: #dd2424; /* Darker color for better contrast */
+}
+
+label {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+    display: block;
+    color: #efd9d9; /* Subtle text color */
+}
+
+.age-dob-input {
+	    background-color: #ffffff;
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    font-size: 1.2rem;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    outline: none;
+    transition: all 0.3s ease;
+}
+
+.age-dob-input:focus {
+    border-color: #635bff; /* Matches the primary button color */
+    box-shadow: 0 0 5px rgba(99, 91, 255, 0.5);
+}
+
+.calculate-btn {
+    font-size: 1.2rem;
+    width: 200px;
+    height: 40px;
+    background-color: #dd2424; /* Primary button color */
+    color: white;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+.calculate-btn:hover {
+    background-color: #5348e1; /* Slightly darker on hover */
+}
