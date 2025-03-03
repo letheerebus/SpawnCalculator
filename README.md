@@ -29,16 +29,5 @@ A simple web application that calculates a user's age based on their date of bir
    - Calculates the difference between the birth year and current year
    - Displays the calculated age on the screen
 
-## Preview
+---
 
-The calculator features a modern dark theme with accent colors and responsive design.
-
-## Future Improvements
-
-- Add more precise age calculation (including months and days)
-- Implement validation for future dates
-- Add animation effects for the result display
-
-## Author
-
-Created by Kanha as a web development learning project
